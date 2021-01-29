@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 if [[ $1 == run ]];
 then
   docker ps -a
